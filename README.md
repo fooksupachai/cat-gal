@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -119,19 +120,21 @@ Read instructions below for using assets from JavaScript and HTML.
 
 You can, however, create more top-level directories.<br>
 They will not be included in the production build so you can use them for things like documentation.
+=======
+### Cat Gallery
+>>>>>>> 7d5613710c03ebcbbd9867355980a1c1ab21c70b
 
-## Available Scripts
+## step 1
 
-In the project directory, you can run:
+### npm install
 
-### `npm start`
+for install node module
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## step 2
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+### npm start
 
+<<<<<<< HEAD
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
@@ -1242,3 +1245,6 @@ It is reported that `npm run build` can fail on machines with no swap space, whi
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+for start project
+>>>>>>> 7d5613710c03ebcbbd9867355980a1c1ab21c70b
